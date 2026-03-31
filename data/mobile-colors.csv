@@ -1,0 +1,11 @@
+App_Type,Primary,Secondary,Accent,Background,Surface,Error,On_Primary,On_Secondary,Notes
+fintech,#1A3D7C,#0D2B5E,#00B67A,#F8F9FA,#FFFFFF,#DC2626,#FFFFFF,#FFFFFF,"Navy blue conveys trust and stability; green accent signals positive financial growth"
+social,#6C5CE7,#4A3DC7,#FF6B6B,#FAFAFA,#FFFFFF,#DC2626,#FFFFFF,#FFFFFF,"Purple drives creativity and self-expression; coral accent encourages engagement and warmth"
+e-commerce,#E65100,#BF360C,#1B5E20,#FAFAFA,#FFFFFF,#DC2626,#FFFFFF,#FFFFFF,"Orange triggers impulse and urgency; green accent for trust in checkout and confirmation"
+health,#00796B,#004D40,#26A69A,#F1F8F5,#FFFFFF,#DC2626,#FFFFFF,#FFFFFF,"Teal evokes wellness and calm; lighter teal accent for positive health indicators"
+education,#1565C0,#0D47A1,#FF8F00,#F5F7FA,#FFFFFF,#DC2626,#FFFFFF,#FFFFFF,"Blue fosters focus and trust in learning; amber accent highlights achievements and progress"
+enterprise,#263238,#1A2327,#0288D1,#F5F5F5,#FFFFFF,#DC2626,#FFFFFF,#FFFFFF,"Dark slate conveys authority and professionalism; blue accent for actionable CTAs"
+entertainment,#D50000,#B71C1C,#FFD600,#121212,#1E1E1E,#DC2626,#FFFFFF,#FFFFFF,"Red creates excitement and energy; gold accent for premium content and highlights"
+news,#212121,#424242,#1976D2,#FAFAFA,#FFFFFF,#DC2626,#FFFFFF,#FFFFFF,"Neutral dark for readability and editorial authority; blue accent for links and categories"
+productivity,#2E7D32,#1B5E20,#FF6F00,#FAFBFC,#FFFFFF,#DC2626,#FFFFFF,#FFFFFF,"Green signals progress and completion; orange accent for deadlines and priority items"
+travel,#0277BD,#01579B,#F57C00,#F5F9FC,#FFFFFF,#DC2626,#FFFFFF,#FFFFFF,"Ocean blue inspires wanderlust and openness; warm orange accent for CTAs and deals"

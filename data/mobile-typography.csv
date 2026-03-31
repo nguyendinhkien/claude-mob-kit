@@ -1,0 +1,11 @@
+App_Type,Flutter_Font,Android_Font,iOS_Font,H1_Size,H2_Size,Body_Size,Caption_Size,Mood,Google_Fonts_URL
+fintech,Inter,Roboto,SF Pro,28sp,22sp,16sp,12sp,Professional and trustworthy,https://fonts.google.com/specimen/Inter
+social,Nunito,Roboto,SF Pro,30sp,24sp,16sp,12sp,Friendly and expressive,https://fonts.google.com/specimen/Nunito
+e-commerce,Poppins,Roboto,SF Pro,28sp,22sp,15sp,12sp,Modern and confident,https://fonts.google.com/specimen/Poppins
+health,Lato,Roboto,SF Pro,28sp,22sp,16sp,13sp,Calm and readable,https://fonts.google.com/specimen/Lato
+education,Merriweather Sans,Roboto,SF Pro,28sp,22sp,16sp,12sp,Approachable and clear,https://fonts.google.com/specimen/Merriweather+Sans
+enterprise,Source Sans 3,Roboto,SF Pro,26sp,20sp,15sp,12sp,Structured and efficient,https://fonts.google.com/specimen/Source+Sans+3
+entertainment,Montserrat,Roboto,SF Pro,32sp,24sp,16sp,12sp,Bold and dynamic,https://fonts.google.com/specimen/Montserrat
+news,Libre Franklin,Roboto,SF Pro,30sp,24sp,17sp,13sp,Editorial and authoritative,https://fonts.google.com/specimen/Libre+Franklin
+productivity,Work Sans,Roboto,SF Pro,26sp,20sp,15sp,12sp,Focused and minimal,https://fonts.google.com/specimen/Work+Sans
+travel,Raleway,Roboto,SF Pro,30sp,24sp,16sp,12sp,Inspiring and elegant,https://fonts.google.com/specimen/Raleway

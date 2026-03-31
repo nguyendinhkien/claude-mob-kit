@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 core.py search \"fintech\" app_type)",
+      "Bash(python3 core.py get \"health\" colors)",
+      "Bash(python3 token_generator.py --platform flutter --app-type fintech)",
+      "Bash(python3 token_generator.py --platform android --app-type e-commerce)"
+    ]
+  }
+}
